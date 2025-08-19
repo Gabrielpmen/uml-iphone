@@ -1,3 +1,3 @@
 ### Diagrama de Classes do iPhone
 
-![Diagrama de Classes do iPhone](http://www.plantuml.com/plantuml/svg/https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/diagramas/iphone-class-diagram.puml)
+![Diagrama de Classes do iPhone](//www.plantuml.com/plantuml/png/PP1FQm913CNlyoboN2aLwQNWGRIMGWyLQKllSIQkWUn4CZDIjFtkHPqjjTxoX_T-oPkcZ9PB9-v1Lt0xWPcm9nZ3XaJKkSnP21uPMyCE8H3C1LEYD8Qd4ZrhHE60WH841LvkD18qTwFH_S0vZfbiZPxWbRQceMIrbvBOey310Tn0Le_M34xr5alwRH89dTohe7dBnh65xjGDtFTVzzaMZMIZxoIqriXUgxrmYzPBO-d8z6oFcMAW7iQHFQFDrOnOFtJV_0CiS4Sj1hNduoXIhlxqoIks9ROSiSSKaye8VFvWeJkShR3fqGM5zrXbPvG_Xjh7TpXEQZqSVaskqxlONdz_iRwwtKqfXjB93m00)
