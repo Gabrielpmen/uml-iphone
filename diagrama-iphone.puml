@@ -1,0 +1,38 @@
+@startuml
+' Título do Diagrama
+title Diagrama de Classes: Funcionalidades do iPhone (2007)
+
+' Define as Interfaces para cada funcionalidade principal
+interface ReprodutorMusical {
+  + tocar()
+  + pausar()
+  + selecionarMusica(String musica)
+}
+
+interface AparelhoTelefonico {
+  + ligar(String numero)
+  + atender()
+  + iniciarCorreioVoz()
+}
+
+interface NavegadorInternet {
+  + exibirPagina(String url)
+  + adicionarNovaAba()
+  + atualizarPagina()
+}
+
+' Define a Classe concreta que implementa as interfaces
+class iPhone {
+  ' A classe iPhone implementa os métodos
+  ' definidos nas três interfaces.
+  ' Não é necessário listá-los novamente aqui
+  ' pois a relação de implementação já os implica.
+}
+
+' Define as relações de "realização" (implementação)
+' A linha pontilhada com uma seta de triângulo vazia significa "implementa"
+iPhone ..|> ReprodutorMusical
+iPhone ..|> AparelhoTelefonico
+iPhone ..|> NavegadorInternet
+
+@enduml
